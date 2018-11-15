@@ -1,0 +1,12 @@
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\bin\Debug\netstandard2.0\SS_Repository.deps.json
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\bin\Debug\netstandard2.0\SS_Repository.dll
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\bin\Debug\netstandard2.0\SS_Repository.pdb
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.csproj.CoreCompileInputs.cache
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.AssemblyInfoInputs.cache
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.AssemblyInfo.cs
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.csproj.CopyComplete
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.dll
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.pdb
+E:\Courses\.NET Courses(active)\Final Projects\ShoppingService\ShoppingService\ShoppingService\SS_Repository\obj\Debug\netstandard2.0\SS_Repository.csprojAssemblyReference.cache
